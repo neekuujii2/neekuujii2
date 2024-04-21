@@ -1,67 +1,38 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neekuujii&label=Profile%20views&color=0e75b6&style=flat" alt="neekuujii" /> </p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+- 🔭 I’m currently working on [Traffic Prediction using MLP](https://www.kaggle.com/code/neerajkumar75260/traffic-prediction-mlp?kernelSessionId=171899250)
 
-###
+- 🌱 I’m currently learning **Deep Learning ,NLP,Computer Vission**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+- 👯 I’m looking to collaborate on [IPL Complete Analysis](https://www.kaggle.com/code/neerajkumar75260/ipl-complete-analysis?kernelSessionId=171908560)
 
-###
+- 🤝 I’m looking for help with [customer Revenue Prediction](https://www.kaggle.com/code/neerajkumar75260/google-analytics-customer-revenue-prediction)
 
-<h1 align="center">hey there 👋</h1>
+- 👨‍💻 All of my projects are available at [https://www.kaggle.com/neerajkumar75260](https://www.kaggle.com/neerajkumar75260)
 
-###
+- 📝 I regularly write articles on [https://medium.com/@neerajkumar75260](https://medium.com/@neerajkumar75260)
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 💬 Ask me about **Python,Pandas ,Numpay,Matplotlib,Scikit-learn,Seaborn,R**
 
-###
+- 📫 How to reach me **neerajkumar75260@gmail.com**
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+- ⚡ Fun fact **Did you know that GitHub was initially coded in Ruby, and its founder, Chris Wanstrath, named it after himself (Git + Hub = GitHub)? It's like naming your pet after you, but for coders! 🐱 In 2012, GitHub faced a DDoS attack with the highest ever recorded volume at the time - a whopping 1.35Tbps! That's like trying to drink the entire ocean through a straw. Talk about an extreme thirst for data! GitHub Octocat, the beloved mascot, was originally created by designer Simon Oxley. The concept was later adapted and refined by Cameron McEfee. Now Octocat leads a double life as both a coding companion and an internet celebrity! 🌟 GitHub is more than just a code-sharing platform; it's a global collaboration hub. With over 56 million developers worldwide, if GitHub were a country, it would be the 24th most populous in the world! Welcome to the United Devs of GitHub! 🌍**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/neeraj-kumar-b16194259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neeraj-kumar-b16194259" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/neerajkumar75260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/neerajkumar75260" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@neerajkumar75260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@neerajkumar75260" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neekuujii&show_icons=true&locale=en&layout=compact" alt="neekuujii" /></p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neekuujii&show_icons=true&locale=en" alt="neekuujii" /></p>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neekuujii&" alt="neekuujii" /></p>
